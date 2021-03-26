@@ -1,0 +1,7 @@
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ADO\ADOPractice\bin\Debug\ADOPractice.exe.config
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ADO\ADOPractice\bin\Debug\ADOPractice.exe
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ADO\ADOPractice\bin\Debug\ADOPractice.pdb
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ADO\ADOPractice\obj\Debug\ADOPractice.csprojAssemblyReference.cache
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ADO\ADOPractice\obj\Debug\ADOPractice.csproj.CoreCompileInputs.cache
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ADO\ADOPractice\obj\Debug\ADOPractice.exe
+D:\4th year\Cognizant\CDE Dotnet FSE Learning Path\HandsOn\C#\ADO\ADOPractice\obj\Debug\ADOPractice.pdb
